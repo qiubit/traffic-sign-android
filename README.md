@@ -1,5 +1,7 @@
 # traffic-sign-android
 
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
 Traffic sign classifier trained using fastai and deployed to run in real time (60-70 FPS) on Android using PyTorch Mobile.
 
 The Android app is based on [pytorch/android-demo-app](https://github.com/pytorch/android-demo-app), an official demo app for PyTorch Mobile project.
